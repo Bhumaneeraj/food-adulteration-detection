@@ -15,12 +15,17 @@ This project investigates image-based methods for identifying signs of food adul
 
 ## My role
 
-I worked on the bachelor research project and prepared the four manuscripts. Their contribution statements mostly credit the first author with data collection, analysis, and writing. Exact responsibilities, datasets, code, and results should be checked against the original project records before sharing implementation details or full papers.
+I worked on the bachelor research project and prepared the four manuscripts. Their contribution statements mostly credit the first author with data collection, analysis, and writing. The papers remain unpublished project manuscripts, not peer-reviewed publications.
 
 ## Status and limitations
 
 These manuscripts are unpublished and describe initial comparisons on small samples. This repository is a project overview, not a claim of peer review, a validated safety tool, or a production system.
 
-## Materials
+## Papers
 
-Add reviewed code, a dataset description, and paper files here only after verifying accuracy and permissions for all shared material.
+- [DVT vs. CNNs](5-deep-vision-transformers-vs-cnns.pdf) (unpublished manuscript)
+- [DVT vs. ResNet and MobileNet](6-deep-vision-transformers-vs-resnet-mobilenet.pdf) (unpublished manuscript)
+- [DVT vs. GAN-based augmentation](7-deep-vision-transformers-vs-gans.pdf) (unpublished manuscript)
+- [DVT vs. autoencoders](8-deep-vision-transformers-vs-autoencoders.pdf) (unpublished manuscript)
+
+No code is included in this repository.
